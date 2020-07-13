@@ -2,7 +2,7 @@
 
 I'm Mechatronics Engineer and Programming Enthusiast. I really like learning especially about technology and programming. I'm motivated to acquire new experiences.
 
-<img src="https://image.flaticon.com/icons/svg/733/733579.svg"/>
+<img src="https://image.flaticon.com/icons/svg/733/733579.svg" height="50%"/>
 
 ## Find me on...
 
