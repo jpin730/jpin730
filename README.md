@@ -1,5 +1,5 @@
 # Hi there! 😁
 
-I'm a Mechatronics Engineer and Programming Enthusiast. I really like learning especially about technology and programming. I'm motivated to acquire new experiences.  
+Frontend Developer with experience building responsive websites and strong UX-based approach. Self-taught and open-minded to new ways of solving. Great emphasis on scalable code and good practices.
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpin730&layout=donut)
