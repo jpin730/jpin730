@@ -8,6 +8,6 @@
 
 - [Portfolio](https://jpin730.github.io)
 
-- [Certifications](https://jpin730.github.io/certifications-gallery)
+- [Certifications & Courses](https://jpin730.github.io/certifications-gallery)
 
 
