@@ -1,6 +1,6 @@
 # Hi there! 😁
 
-**Frontend Developer (Angular | NextsJS | ReactJS)** with experience building responsive websites and strong UX-based approach. Self-taught and open-minded to new ways of solving. Great emphasis on scalable code and good practices. My work experience stands out in the sport and retail industry as the NBA team “Miami Heats” and Unicomer Group, respectively. Learning Dart (Flutter) and Java (Spring).
+**Frontend Developer (Angular | NextJS | ReactJS)** with experience building responsive websites and strong UX-based approach. Self-taught and open-minded to new ways of solving. Great emphasis on scalable code and good practices. My work experience stands out in the sport and retail industry as the NBA team “Miami Heats” and Unicomer Group, respectively. Learning Dart (Flutter) and Java (Spring).
 
 [![My Skills](https://skillicons.dev/icons?i=angular,nextjs,react,ts,js,html,css,dart,java&theme=light)](https://skillicons.dev)
 
