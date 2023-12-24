@@ -1,6 +1,6 @@
-# Web Developer (Angular | ReactJS | NextJS | NodeJS | Express)
+# Web Developer
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,express,typescript,javascript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,express,nestjs,typescript,javascript&theme=light)](https://skillicons.dev)
 
 - [LinkedIn](https://linkedin.com/in/jpin730)
 
