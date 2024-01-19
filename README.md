@@ -6,7 +6,7 @@
 
 - [Portfolio](https://jpin730.github.io)
 
-- [Certifications & Courses](https://jpin730.github.io/certifications-gallery)
+- [Certificates](https://jpin730.github.io/certifications-gallery)
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpin730&layout=donut&hide=html,css,scss)
 
