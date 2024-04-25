@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,express,nestjs,typescript,javascript,spring,java&theme=light)](https://skillicons.dev)
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpin730&layout=compact&theme=transparent)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpin730&layout=compact&theme=transparent&hide=html,css,scss)
 
 - [LinkedIn](https://linkedin.com/in/jpin730)
 
