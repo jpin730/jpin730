@@ -5,5 +5,3 @@ Web Developer with a focus on JavaScript and TypeScript, continuously improving 
 ![My Skills](https://skillicons.dev/icons?i=angular,nestjs,react,nextjs,express,nodejs,javascript,typescript&theme=light)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/jpin730) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge)](https://jpineda.dev) [![Certificates](https://img.shields.io/badge/Certificates-A435F0?style=for-the-badge)](https://jpin730.github.io/certificates)
-
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpin730&layout=compact&theme=transparent&hide=html,css,scss)
