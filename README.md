@@ -1,6 +1,6 @@
 # Jaime Pineda
 
-Web Developer with a focus on JavaScript and TypeScript, continuously improving skills in both frontend and backend development, enabling proficiency in building smooth and efficient web applications. Eager to learn and solve problems, performs exceptionally well in collaborative environments to deliver high-quality solutions.
+Full Stack Web Developer with a focus on JavaScript and TypeScript, continuously improving skills in both frontend and backend development, enabling proficiency in building smooth and efficient web applications. Eager to learn and solve problems, performs exceptionally well in collaborative environments to deliver high-quality solutions.
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,nestjs,react,nextjs,expressjs,nodejs,javascript,typescript&theme=light)
 
