@@ -2,7 +2,7 @@
 
 Full Stack Web Developer with a focus on JavaScript and TypeScript, continuously improving skills in both frontend and backend development, enabling proficiency in building smooth and efficient web applications. Eager to learn and solve problems, performs exceptionally well in collaborative environments to deliver high-quality solutions.
 
-Leaning Java Spring Boot...
+Learning Java Spring Boot...
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,nestjs,react,nextjs,expressjs,nodejs,javascript,typescript,java,spring&theme=light)
 
