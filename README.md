@@ -1,6 +1,6 @@
 # Jaime Pineda
 
-Full Stack Web Developer with a focus on JavaScript and TypeScript, continuously improving skills in both frontend and backend development, enabling proficiency in building smooth and efficient web applications. Eager to learn and solve problems, performs exceptionally well in collaborative environments to deliver high-quality solutions.
+Software Developer with a focus on JavaScript and TypeScript, continuously improving skills in both frontend and backend development, enabling proficiency in building smooth and efficient web applications. Eager to learn and solve problems, performs exceptionally well in collaborative environments to deliver high-quality solutions.
 
 Learning Java Spring Boot...
 
